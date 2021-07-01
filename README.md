@@ -1,2 +1,2 @@
 # CourseraTfDS
-Coursera Tools For Data Science
+Coursera Tools For DS
